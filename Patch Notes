@@ -1,15 +1,142 @@
-1.8.14 vs 1.8.13
+1.8.15 vs 1.8.14
+
+ACC CAR WEIGHT PER TRACK
+ ===> https://docs.google.com/spreadsheets/d/1TtVcE1U0ZBBFHETTtqptQRD0JJfNtpR9JdMQMsiOhMA/edit#gid=1008888969
+
+EU A: Monza
+EU B1: Paul Ricard
+EU B2: Spa-Francorchamps
+EU C: Imola, Silverstone (no 2021 update)
+EU C1: Nurburgring
+EU C2: Barcelona
+EU D: Hungaroring (no 2021 update)
+EU D1: Brands Hatch, Zolder
+EU D2: Misano, Zandvoort
+ 
+IGT A: Mount Panorama
+IGT C: Suzuka
+IGT D: Laguna Seca
+IGT E: Kyalami
+IGT F: Indianapolis
+ 
+BGT A: Oulton Park
+BGT B: Donington
+BGT D: Snetterton
+
+GTAM B: Watkins Glen
+GTAM C: Circuit of The Americas
+
+
+AMR V8 VANTAGE:
+
+	Power buff from 3000 to 5000RPM on all tracks
+
+	Fixed 113L GTAM B 
+
+	Fixed 109L GTAM C 
+
+	Fixed 113L IGT F 
 
 AUDI R8 LMS EVO 2:
 
-	Major power curve buff (from 5000 to 7500RPM)
+	Increased base fuel consumption (~2%)
+
+	Fixed 112L GTAM B (Kyalami power curve)
+
+	Fixed 110L GTAM C (Kyalami power curve)
+	
+	Fixed 116L IGT F (Kyalami power curve)
 
 BENTLEY 2018:
 
-	Fuel consumption increased by ~0.78%
+	Decreased base fuel consumption (very minor)
 
-	Fixed engine maps (power & fuel consumption)
+	Decreased engine maps 2-4-5-6-7 fuel consumption
+
+	Increased engine map 3 power & fuel consumption
+
+	Updated aero lift coefficient
+
+	Fixed 112L GTAM B (Spa power/turbo curve)
+
+	Fixed 106L GTAM C (Barcelona power/turbo curve)
+
+	Fixed 120L IGT F (Kyalami power/turbo curve)
+
+BMW M4:
+
+	Fixed 120L GTAM B 
+
+	Fixed 120L GTAM C 
+
+	Fixed 120L IGT F 
+
+FERRARI 488 EVO:
+
+	Decreased base fuel consumption (~1%)
+
+	Decreased engine map 1 fuel consumption (~5%)
+
+	Decreased engine map 2 fuel consumption (~3%)
+
+	Fixed 114L GTAM B (Spa/Barcelona power curve & Paul Ricard turbo curve)
+
+	Fixed 114L GTAM C (Spa/Barcelona power curve & new turbo curve)
+
+	Fixed 114L IGT F (Spa/Barcelona power curve & new turbo curve)
 
 HONDA NSX EVO:
 
-	Fixed a camber typo on Monza
+	Fixed 119L GTAM B (Spa power curve & new turbo curve)
+
+	Fixed 119L GTAM C (Silverstone/Imola power curve & new turbo curve)
+
+	Fixed 118L IGT F (Kyalami power curve & new turbo curve)
+
+LAMBORGHINI HURACAN EVO:
+
+	Fixed 114L GTAM B 
+
+	Fixed 114L GTAM C 
+
+	Fixed 114L IGT F 
+
+MCLAREN 720S:
+
+	Fixed 109L GTAM B (Paul Ricard power curve)
+
+	Fixed 110L GTAM C (Misano/Zandvoort power curve)
+
+	Fixed 110L IGT F (Kyalami power curve)
+
+MERCEDES AMG EVO:
+
+	Fixed 114L GTAM B (Donington power curve)
+
+	Fixed 114L GTAM C (Spa power curve)
+
+	Fixed 114L IGT F (Spa power curve)
+
+PORSCHE 911II GT3R:
+
+	Fixed 107L GTAM B (1.8.15 Paul Ricard power curve ==> 1.8.16 Spa power curve, 8000-9000RPM power nerf)
+
+	Fixed 107L GTAM C (Barcelona power curve)
+
+	Fixed 107L IGT F (Kyalami power curve)
+
+NISSAN 2018:
+
+	Fixed 120L GTAM B (Spa power/turbo curve)
+
+	Fixed 132L GTAM C (Spa power/turbo curve)
+
+	Fixed 132L IGT F (Kyalami power/turbo curve)
+
+LEXUS:
+
+	Fixed 113L GTAM B (Spa power curve)
+
+	Fixed 120L GTAM C (Nurburgring power curve)
+
+	Fixed 120L IGT F (Spa power curve)
