@@ -1,0 +1,371 @@
+1.8
+
+EU A: Monza
+EU B1: Paul Ricard
+EU B2: Spa-Francorchamps
+EU C: Imola, Silverstone (no 2021 update)
+EU C1: Nurburgring
+EU C2: Barcelona
+EU D: Hungaroring (no 2021 update)
+EU D1: Brands Hatch, Zolder
+EU D2: Misano, Zandvoort
+
+IGT A: Mount Panorama
+IGT C: Suzuka
+IGT D: Laguna Seca
+IGT E: Kyalami
+
+BGT A: Oulton Park
+BGT B: Donington
+BGT D: Snetterton
+
+GENERAL:
+
+	Added BMW M2 CS RACING preview: https://imgur.com/a/sSWfd0x (deleted in 1.8.3)
+	Added FERRARI 488 CHALLENGE EVO preview: https://imgur.com/GkAexQ7 (deleted in 1.8.3)
+	Added LAMBO HURACAN ST EVO2 preview: https://imgur.com/lI18HWY (deleted in 1.8.3)
+	Added PORSCHE 992 CUP preview: https://imgur.com/oMbVPPr (deleted in 1.8.3)
+
+	Added Circuit of the Americas safe, wet and aggressive setup page for all cars
+
+	DRY TYRE IDEAL PRESSURE: 27.64
+	DRY TYRE OPTIMAL PERFORMANCE RANGE: 76°C to 90°C
+
+	WET TYRE IDEAL PRESSURE: 30
+	WET TYRE OPTIMAL PERFORMANCE RANGE: 25.4°C to 65°C
+
+	FRONT BRAKE1 IDEAL TEMPERATURE RANGE : 250°C to 500°C (max performance 99% from 366°C to 450°C)
+	FRONT BRAKE2 IDEAL TEMPERATURE RANGE : 250°C to 600°C (max performance 97% from 364°C to 425°C)
+	FRONT BRAKE3 IDEAL TEMPERATURE RANGE : 200°C to 800°C (max performance 88% from 250°C to 550°C)
+
+	REAR BRAKE1 IDEAL TEMPERATURE RANGE : 150°C to 600°C (max performance 100% from 366°C to 450°C)
+	REAR BRAKE2 IDEAL TEMPERATURE RANGE : 150°C to 600°C (max performance 98% from 250°C to 379°C)
+	REAR BRAKE3 IDEAL TEMPERATURE RANGE : 130°C to 700°C (max performance 91% from 250°C to 550°C)
+
+	BRAKE1 PERFORMANCE DECREASES ~15% FASTER THAN BRAKE2
+	BRAKE2 PERFORMANCE DECREASES ~8% FASTER THAN BRAKE3
+	(BRAKE4 PERFORMANCE DECREASES ~46% FASTER THAN BRAKE1)
+	
+AMR V8 VANTAGE:
+(Turbo adjustments from 4500 to 7000RPM)
+
+	Increased braking torque
+	
+	Increased differential power
+	
+	Engine limiter at 7300RPM
+
+	-25kg; minor turbo adjustment; power adjustment BGT A 
+
+	+25kg IGT A 
+
+	Power nerf EU A 
+
+	Fixed 113L; minor turbo adjustment EU B1 
+
+	Fixed 109L EU B2 
+
+	+10kg; Fixed 109L; minor turbo adjustment EU C1 
+
+	Fixed 109L; minor turbo adjustment EU C2 
+
+	+5kg; minor turbo adjustment BGT D 
+
+	-10kg; minor turbo adjustment EU D1 
+
+	Significant power buff; turbo adjustment EU D2 
+
+
+AUDI R8 LMS EVO:
+
+	Increased braking torque
+
+	Increased force feedback multiplier
+
+	Increased differential power
+
+	+60kg IGT A 
+
+	-5kg EU A 
+
+	+5kg; fixed 112L EU B1 
+
+	Fixed 108L EU B2 
+
+	+5kg; fixed 106L EU C1 
+
+	-10kg; fixed 106L EU C2 
+
+	-10kg EU D1 
+
+	-5kg EU D2 
+
+BENTLEY 2018:
+
+	Increased braking torque
+
+	Increased differential power
+
+	Decreased force feedback multiplier
+
+	-10kg BGT A 
+
+	+20kg IGT A 
+
+	+15kg EU A 
+
+	Fixed 112L EU B1 
+
+	-5kg; fixed 107L EU B2 
+
+	Fixed 106L EU C1  
+
+	Fixed 106L EU C2 
+
+	-10kg BGT D 
+
+	-10kg EU D1
+	
+	-10kg EU D2
+
+FERRARI 488 EVO:
+
+	Increased braking torque
+
+	Increased differential power
+
+	Decreased force feedback multiplier
+
+	Adjusted linear steer rod ratio
+
+	+10kg; turbo nerf from 5000 to 6500RPM IGT A
+
+	+5kg; fixed 113L EU B1 
+
+	-20kg; fixed 110L EU B2
+
+	Fixed 108L EU C1
+
+	-10kg; fixed 108L EU C2
+
+	-10kg EU D1
+
+MCLAREN 720S:
+
+	1.8.10 --> Minor power nerf from 6000 to 7500RPM IGT A ; EU A ; EU C1 ; EU C2 ; EU D1 ; EU D2
+	
+	Increased braking torque
+
+	-25kg BGT A
+
+	-10kg IGT A
+
+	-30kg; significant power buff; significant turbo nerf EU A (now using Mount Panorama power curve)
+
+	-15kg BGT B
+	
+	Fixed 109L; power nerf EU B1
+
+	-10kg; fixed 109L EU B2
+
+	-5kg; fixed 108L; power nerf EU C1 
+
+	Fixed 108L; power nerf EU C2 
+	
+	+15kg BGT D
+
+	-20kg EU D1
+
+	-20kg; power nerf EU D2
+
+PORSCHE 911II GT3R:
+
+	Increased braking torque
+
+	Increased differential power
+
+	+10kg BGT A
+
+	+35kg IGT A
+	
+	+15kg EU A
+	
+	+5kg; fixed 107L EU B1
+
+	Fixed 104L EU B2
+
+	+10kg; fixed 103L EU C1
+
+	+5kg; fixed 103L EU C2
+
+	+30kg BGT D
+
+	-5kg EU D1
+
+	-5kg EU D2
+
+HONDA NSX EVO:
+
+	Increased braking torque
+
+	+40kg IGT A
+
+	-10kg EU A
+
+	+25kg BGT B
+
+	Power nerf from 2000 to 5000RPM; power buff from 5500 to 8000RPM EU D1
+
+	Power nerf from 2000 to 5000RPM; power buff from 5500 to 8000RPM EU D2
+
+MERCEDES AMG EVO:
+
+	Increased braking torque
+
+	Fuel consumption reduced by ~11%
+
+	-5kg BGT A
+
+	+5kg; power nerf from 5500 to 7000RPM IGT A 
+
+	-20kg; power nerf from 5000 to 7500RPM BGT B
+
+	Fixed 112L EU B1
+
+	-10kg; fixed 110L EU B2
+
+	-10kg; fixed 108L EU C1
+
+	Fixed 108L EU C2
+
+	-10kg BGT D
+
+	-10kg EU D1
+
+	-15kg EU D2
+
+LEXUS:
+
+	Increased braking torque
+
+	+10kg IGT A
+
+	+20kg EU D2
+
+LAMBORGHINI HURACAN EVO:
+
+	Increased braking torque
+
+	Increased differential power
+
+	Updated suspension geometry
+
+	Adjusted linear steer rod ratio
+
+	-5kg EU A
+
+	-10kg BGT B
+
+	Fixed 112L EU B1
+
+	+5kg; fixed 108L EU B2
+
+	-5kg IGT C
+	
+	+10kg BGT D
+
+	-5kg EU D1
+
+	-5kg EU D2
+
+NISSAN GTR 2018:
+
+	Increased braking torque
+
+	Increased force feedback multiplier
+
+	Increased differential power
+
+	-10kg IGT A
+
+	-10kg EU A
+
+	-20kg BGT B
+
+	-10kg BGT D
+
+	-15kg EU D1
+
+BMW M4: 1.8.9 --> 1.8.10
+
+	TC minimum speed: 40kmh
+
+	Fixed 120L on all tracks
+
+	Increased drag
+
+	Adjusted rear downforce generation
+
+	-5kg EU A
+
+	+10kg BGT B
+
+	+10kg EU B2
+	
+	+10kg EU C2
+
+	+10kg EU D1
+
+	+10kg EU D2
+
+BMW M6:
+
+	Increased braking torque	
+
+	+5kg IGT A
+
+	+5kg EU A
+
+	-5kg; fixed 117L EU B1
+
+	Fixed 112L; minor power buff EU B2
+
+	+5kg; fixed 111L EU C1
+
+	Fixed 111L EU C2
+
+AMR V8 VANTAGE GT4:
+
+	+25kg BGT B
+
+	+25kg BGT D
+
+AUDI R8 GT4:
+
+	-25kg BGT B
+
+	-35kg BGT D
+
+BMW M4 GT4:
+
+	-60kg BGT A
+
+	-40kg BGT B
+
+	-40kg BGT D
+
+MCLAREN 570s GT4:
+
+	-25kg BGT A
+
+	-55kg BGT B
+
+	-35kg BGT D
+
+MERCEDES AMG GT4:
+
+	+5kg BGT A
+
+	-10kg BGT B
+
+	-15kg BGT D
